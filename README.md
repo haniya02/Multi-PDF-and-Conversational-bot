@@ -90,14 +90,6 @@ rag-pdf-chatbot/
 ```
 
 ---
-## Output
-### The Multi PDF Questionnaire output 
-![alt text](image.png)
-
-### The Conversation Output
-![alt text](image-1.png)
-
-
 ## Setup
 
 ### 1. Clone the repository
